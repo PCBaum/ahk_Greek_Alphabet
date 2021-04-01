@@ -3,6 +3,7 @@
 This AHK script lets you use a simple version of LaTeX commands in almost every Textfield, that accepts Unicode. 
 
 To write Greek Letters, write Backslash \ followed by the name of the Greek Letter: \alpha → α
+
 To write capitalized Greeek letters, write the Letter Capitalized: \Xi → Ξ
 
 ## AHK Installation
