@@ -8,7 +8,7 @@ To write capitalized Greeek letters, write the Letter Capitalized: \Xi → Ξ
 ## AHK Installation
 
   1. Download [Autohotkey](https://www.autohotkey.com/download/) and install it. 
-  2. Download the [script Greek_Alphabet.ahk](https://github.com/PCBaum/ahk_greekalphabet/blob/main/Greek_Apphabet.ahk)
+  2. Download the [script Greek_Alphabet.ahk](https://github.com/PCBaum/ahk_Greek_Alphabet/blob/main/Greek_Alphabet.ahk)
    or create a new script with your prefered Name and copy paste the Key Mapping into it.
   3. Put the script into a folder of your choice. 
   4. Start the script Greek_Alphabet.ahk 
@@ -22,7 +22,7 @@ To write capitalized Greeek letters, write the Letter Capitalized: \Xi → Ξ
   
 # Whithout installing AHK on Windows
 
-  1. Download the compiled [Greek_Alphabet.exe](https://github.com/PCBaum/ahk_greekalphabet/blob/main/Greek_Apphabet.exe) File
+  1. Download the compiled [Greek_Alphabet.exe](https://github.com/PCBaum/ahk_Greek_Alphabet/raw/main/Greek_Alphabet.exe) File
   2. Put the script into a folder of your choice.
   3. Start the script Greek_Alphabet.exe
   
