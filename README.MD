@@ -24,7 +24,7 @@ To write capitalized Greeek letters, write the Letter Capitalized: \Xi → Ξ
 
   1. Download the compiled [Greek_Alphabet.exe](https://github.com/PCBaum/ahk_greekalphabet/blob/main/Greek_Apphabet.exe) File
   2. Put the script into a folder of your choice.
-  3. Start the script Greek_Alphabet.ahk 
+  3. Start the script Greek_Alphabet.exe
   
   Optional:
   
