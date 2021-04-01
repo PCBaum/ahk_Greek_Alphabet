@@ -12,8 +12,11 @@ To write capitalized Greeek letters, write the Letter Capitalized: \Xi → Ξ
    or create a new script with your prefered Name and copy paste the Key Mapping into it.
   3. Put the script into a folder of your choice. 
   4. Start the script Greek_Alphabet.ahk 
+  
   Optional: 
+  
   5. Compile your Script with rightclick → compile script (shoud be somewhere around the the second row)
+  
   6. Put the executable ("YOUR_SCRIPT_NAME".exe) in your Startup Folder "C:\Users\"USERNAME"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" to have the script automatically start on Startup.
   
   
@@ -22,10 +25,14 @@ To write capitalized Greeek letters, write the Letter Capitalized: \Xi → Ξ
   1. Download the compiled [Greek_Alphabet.exe]() File
   2. Put the script into a folder of your choice.
   3. Start the script Greek_Alphabet.ahk 
+  
   Optional:
+  
   4.  Put the executable in your Startup Folder "C:\Users\"USERNAME"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" to have the script automatically start on Startup.
 
 ## Key Mapping 
+
+```
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 ; #Warn  ; Enable warnings to assist with detecting common errors.
@@ -84,3 +91,5 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::\omega::{ω}
 ::\Omega::{Ω}
 #Hotstring *0 ?0 C0
+
+```
