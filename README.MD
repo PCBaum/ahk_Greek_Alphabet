@@ -21,7 +21,7 @@ To write capitalized Greeek letters, write the Letter Capitalized: \Xi → Ξ
   6. Put the executable ("YOUR_SCRIPT_NAME".exe) in your Startup Folder "C:\Users\"USERNAME"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" to have the script automatically start on Startup.
   
   
-# Whithout installing AHK on Windows
+## Whithout installing AHK on Windows
 
   1. Download the compiled [Greek_Alphabet.exe](https://github.com/PCBaum/ahk_Greek_Alphabet/raw/main/Greek_Alphabet.exe) File
   2. Put the script into a folder of your choice.
